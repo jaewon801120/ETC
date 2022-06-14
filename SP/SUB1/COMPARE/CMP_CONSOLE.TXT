@@ -1,0 +1,7 @@
+C:\> SP_TEST
+user 3
+Name:IU,AccessLevel:7,Point:100
+
+C:\> SP_TEST
+card 3
+IdCard:1472,MobileCard:0909,Corperation:1750

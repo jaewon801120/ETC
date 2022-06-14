@@ -1,0 +1,3 @@
+1#Name:SuperMan,AccessLevel:3,Point:0
+2#Name:Dooly,AccessLevel:9,Point:200
+3#Name:IU,AccessLevel:7,Point:100
